@@ -1,4 +1,5 @@
 ### Lotte Data #####
+### 7주차 수업 프로그램 입니다.###
 ### Loading and installing packages ###
 if(!require(ggplot2)){
   install.packages("ggplot2")
